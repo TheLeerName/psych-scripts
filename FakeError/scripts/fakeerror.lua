@@ -1,3 +1,16 @@
+-- WARNING: USES PSYCH ENGINE 0.6.3 AND LATER
+
+-- Author: TheLeerName
+-- Description: Fake error and kys jumpscare on debug menu join
+-- Dependencies:
+--   images/die.png
+--   sounds/die.ogg
+--   sounds/error.ogg
+-- How to use:
+--   1. Put this script in mods/scripts, and have all dependencies
+--   2. Now try open chart editor >:)
+-- Source: https://gamebanana.com/mods/408865
+
 function onUpdate()
 	if runHaxeCode("return FlxG.keys.anyJustPressed(ClientPrefs.copyKey(ClientPrefs.keyBinds.get('debug_1')));") then
 		setProperty('inCutscene', true)
