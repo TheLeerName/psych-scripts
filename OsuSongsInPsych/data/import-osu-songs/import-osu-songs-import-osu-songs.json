@@ -1,0 +1,15 @@
+{
+	"song": {
+		"player1": "bf",
+		"events": [],
+		"gfVersion": null,
+		"notes": [],
+		"player2": "pico",
+		"player3": null,
+		"song": "Import Osu Songs",
+		"needsVoices": false,
+		"validScore": true,
+		"bpm": 138,
+		"speed": 3.2
+	}
+}

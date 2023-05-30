@@ -1,0 +1,7 @@
+{
+	"name": "OsuSongsInPsych",
+	"description": "Converts automatically a .osz files from osu to working songs in fnf. Just open IMPORT OSU SONGS song in freeplay!",
+	"restart": false,
+	"runsGlobally": true,
+	"color": [170, 0, 255]
+}

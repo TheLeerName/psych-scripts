@@ -1,0 +1,21 @@
+{
+	"songs": [
+		["Import Osu Songs", "nil", [165, 0, 77]]
+	],
+
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+	"difficulties": "Import Osu Songs",
+
+	"storyName": "",
+	"weekBefore": "none",
+	"weekName": "import-osu-songs",
+	"startUnlocked": true,
+
+	"hideStoryMode": true,
+	"hideFreeplay": false
+}
