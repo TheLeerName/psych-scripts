@@ -2,19 +2,19 @@
 I decided upload them to GitHub why not ¯\ _(ツ)_ /¯
 
 ### [Options in pause menu](OptionsPause)
-<iframe width="350" height="200" src="https://www.youtube.com/embed/8kazHZ0N7cM" title="testing psych engine script for options in pause part 3 - keybinds and falling snow :)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![wjat](http://img.youtube.com/vi/8kazHZ0N7cM/0.jpg)](http://www.youtube.com/watch?v=8kazHZ0N7cM "testing psych engine script for options in pause part 3 - keybinds and falling snow :)")
 
 [[Google Drive zip](https://drive.google.com/file/d/1a70R4o5MUTJSoaMLNu0dK4YFMdMQSpyp) - [GameBanana](https://gamebanana.com/tools/11463)]
 
 ### [osu!mania songs in psych](OsuSongsInPsych)
-<iframe width="350" height="200" src="https://www.youtube.com/embed/lpeeABJIKmY" title="testing script for osu!mania songs in psych engine part 2 - added ui" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![wjat](http://img.youtube.com/vi/lpeeABJIKmY/0.jpg)](http://www.youtube.com/watch?v=lpeeABJIKmY "testing script for osu!mania songs in psych engine part 2 - added ui")
 
 Converts automatically a .osz files from osu to working songs in fnf. Just open IMPORT OSU SONGS song in freeplay! [[Google Drive zip](https://drive.google.com/file/d/1QVBfiFnANzCbuXQ7aje8h1WHYXJUxgoJ) - [GameBanana](https://gamebanana.com/tools/11544)]
 
 ## Mechanics
 
 ### [Change scroll](scripts/advancedtween.lua)
-<iframe width="350" height="200" src="https://www.youtube.com/embed/exJH76zkxTw" title="funny fnf script for downscroll and upscroll at the same time" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![wjat](http://img.youtube.com/vi/exJH76zkxTw/0.jpg)](http://www.youtube.com/watch?v=exJH76zkxTw "funny fnf script for downscroll and upscroll at the same time")
 
 Functions for change scroll of notes, it can change scroll of certain notes too!
 
@@ -28,8 +28,7 @@ The cool mechanic check it out! [[Psych Engine Discord](https://discord.com/chan
 
 Does randomizing notes by current seed [[GameBanana](https://gamebanana.com/tools/10192)]
 
-### [Fake error](FakeError)
-<iframe width="350" height="200" src="https://www.youtube.com/embed/zpUQyeIe1UA" title="what" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![wjat](http://img.youtube.com/vi/zpUQyeIe1UA/0.jpg)](http://www.youtube.com/watch?v=zpUQyeIe1UA "what")
 
 Does fake error and kys jumpscare on debug menu join [[Google Drive zip](https://drive.google.com/file/d/1dzYuvd_AruTJtljYMd6WZJksCFpJvhhw) - [GameBanana](https://gamebanana.com/mods/408865)]
 
@@ -65,8 +64,9 @@ Self-explanatory
 Fix of [enums](https://haxe.org/manual/types-enum-instance.html) for lua/hscript
 
 ### [Rotating window](scripts/rotatingwindow.lua)
+[![wjat](http://img.youtube.com/vi/SuN582IvTg8/0.jpg)](http://www.youtube.com/watch?v=SuN582IvTg8 "rotating window in psych engine lua")
+
 a rotating window!
-<iframe width="350" height="200" src="https://www.youtube.com/embed/SuN582IvTg8" title="rotating window in psych engine lua" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### [Block input](scripts/blockInput.lua)
 Function for block inputs, it can block everything
