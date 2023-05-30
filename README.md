@@ -4,10 +4,12 @@ I decided upload them to GitHub why not ¯\ _(ツ)_ /¯
 ### [Options in pause menu](OptionsPause)
 <iframe width="350" height="200" src="https://www.youtube.com/embed/8kazHZ0N7cM" title="testing psych engine script for options in pause part 3 - keybinds and falling snow :)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+[[Google Drive zip](https://drive.google.com/file/d/1a70R4o5MUTJSoaMLNu0dK4YFMdMQSpyp) - [GameBanana](https://gamebanana.com/tools/11463)]
+
 ### [osu!mania songs in psych](OsuSongsInPsych)
 <iframe width="350" height="200" src="https://www.youtube.com/embed/lpeeABJIKmY" title="testing script for osu!mania songs in psych engine part 2 - added ui" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-Converts automatically a .osz files from osu to working songs in fnf. Just open IMPORT OSU SONGS song in freeplay!
+Converts automatically a .osz files from osu to working songs in fnf. Just open IMPORT OSU SONGS song in freeplay! [[Google Drive zip](https://drive.google.com/file/d/1QVBfiFnANzCbuXQ7aje8h1WHYXJUxgoJ) - [GameBanana](https://gamebanana.com/tools/11544)]
 
 ## Mechanics
 
@@ -29,7 +31,7 @@ Does randomizing notes by current seed [[GameBanana](https://gamebanana.com/tool
 ### [Fake error](FakeError)
 <iframe width="350" height="200" src="https://www.youtube.com/embed/zpUQyeIe1UA" title="what" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-Does fake error and kys jumpscare on debug menu join
+Does fake error and kys jumpscare on debug menu join [[Google Drive zip](https://drive.google.com/file/d/1dzYuvd_AruTJtljYMd6WZJksCFpJvhhw) - [GameBanana](https://gamebanana.com/mods/408865)]
 
 ### [Reversed note type](custom_notetypes/Reversed%20Note.lua)
 Reversed note type like in gamebreaker (idk what is it)
