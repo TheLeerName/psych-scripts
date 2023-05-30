@@ -19,12 +19,12 @@ Converts automatically a .osz files from osu to working songs in fnf. Just open 
 Functions for change scroll of notes, it can change scroll of certain notes too!
 
 ### [Keyboard mechanic / Keybinds of certain notes](scripts/keyboardmechanic.lua)
-<img src="https://media.discordapp.net/attachments/1104949534041309206/1104949534221668392/PsychEngine_N55l61jAqW.png?width=330&height=462" width="10%"/>
+<img src="https://media.discordapp.net/attachments/1104949534041309206/1104949534221668392/PsychEngine_N55l61jAqW.png?width=330&height=462" width="30%"/>
 
 The cool mechanic check it out! [[Psych Engine Discord](https://discord.com/channels/922849922175340586/1104949534041309206/1104949534041309206)]
 
 ### [Note Randomizer By Seed](scripts/NoteRandomizerBySeed.lua)
-<img src="https://images.gamebanana.com/img/ss/tools/62f6cc30c481d.jpg" width="20%"/>
+<img src="https://images.gamebanana.com/img/ss/tools/62f6cc30c481d.jpg" width="40%"/>
 
 Does randomizing notes by current seed [[GameBanana](https://gamebanana.com/tools/10192)]
 
@@ -40,7 +40,7 @@ Script make possible to play opponent side (not checked if it work lol)
 
 ## Interface
 ### [notitgbelike](scripts/notitgbelike.lua)
-<img src="https://i.imgur.com/vnYjhVC.png" width="20%"/>
+<img src="https://i.imgur.com/vnYjhVC.png" width="40%"/>
 
 Idk its like in some rhythm games, just try it! Use downscroll for full experience!
 
@@ -87,4 +87,4 @@ Just a check for double/triple/quadriple notes pressed
 Just a **properly** check for scroll/num/caps keys pressed
 
 ## can i put my balls in yo jaws
-<img src="https://media.tenor.com/JZxEu1mBeGwAAAAd/esqueleto.gif" width="20%"/>
+<img src="https://media.tenor.com/JZxEu1mBeGwAAAAd/esqueleto.gif" width="40%"/>
