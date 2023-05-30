@@ -48,7 +48,7 @@ Idk its like in some rhythm games, just try it! Use downscroll for full experien
 NPS display in score txt like how in Kade Engine
 
 ### [Shader](scripts/shader.lua)
-Script for applying shader to camHUD/camGame
+Script for applying shader to camHUD/camGame. [Btw use my website for converting shaders from shadertoy to fnf!!!!](https://theleername.github.io/ShadertoyToFlixel/)
 
 ### [Rainbow score txt](scripts/rainbowScoreTxt.lua)
 Just a rainbow score txt :)
