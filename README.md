@@ -28,6 +28,7 @@ The cool mechanic check it out! [[Psych Engine Discord](https://discord.com/chan
 
 Does randomizing notes by current seed [[GameBanana](https://gamebanana.com/tools/10192)]
 
+### [Fake error](FakeError)
 [![wjat](http://img.youtube.com/vi/zpUQyeIe1UA/0.jpg)](http://www.youtube.com/watch?v=zpUQyeIe1UA "what")
 
 Does fake error and kys jumpscare on debug menu join [[Google Drive zip](https://drive.google.com/file/d/1dzYuvd_AruTJtljYMd6WZJksCFpJvhhw) - [GameBanana](https://gamebanana.com/mods/408865)]
