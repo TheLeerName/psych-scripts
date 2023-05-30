@@ -1,0 +1,7 @@
+{
+	"name": "FakeError",
+	"description": "Does fake error and kys jumpscare on debug menu join",
+	"restart": false,
+	"runsGlobally": true,
+	"color": [170, 0, 255]
+}
