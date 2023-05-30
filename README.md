@@ -1,13 +1,16 @@
 # Psych Engine 0.6.3 lua scripts by Leer
 I decided upload them to GitHub why not ¯\ _(ツ)_ /¯
 
-## [FakeError](FakeError)
+## [Options in pause menu](OptionsPause)
+Self-explanatory
+
+## [Fake error](FakeError)
 Does fake error and kys jumpscare on debug menu join
 
-## [Reversed Note](custom_notetypes/Reversed%20Note.lua)
+## [Reversed note type](custom_notetypes/Reversed%20Note.lua)
 Reversed note type like in gamebreaker (idk what is it)
 
-## [Wide Time Bar](scripts/widetimebar.lua)
+## [Wide time bar](scripts/widetimebar.lua)
 Self-explanatory
 
 ### can i put my balls in yo jaws

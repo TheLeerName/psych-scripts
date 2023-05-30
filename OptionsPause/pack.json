@@ -1,0 +1,7 @@
+{
+	"name": "OptionsPause",
+	"description": "Options in pause menu",
+	"restart": false,
+	"runsGlobally": true,
+	"color": [170, 0, 255]
+}
