@@ -27,7 +27,7 @@ function onCreatePost()
 		var iTime_exists = false;
 		if (Type.resolveClass('sys.FileSystem').exists('mods/shaders/]]..shaderName..[[.frag')) {
 			shaderContent[0] = Type.resolveClass('sys.io.File').getContent('mods/shaders/]]..shaderName..[[.frag');
-			iTime_exists = shaderContent.contains('uniform float iTime;');
+			iTime_exists = Type.resolveClass('StringTools').replace(shaderContent[0], 'uniform float iTime;', '') != shaderContent[0];
 		}
 		if (Type.resolveClass('sys.FileSystem').exists('mods/shaders/]]..shaderName..[[.vert'))
 			shaderContent[1] = Type.resolveClass('sys.io.File').getContent('mods/shaders/]]..shaderName..[[.vert');
