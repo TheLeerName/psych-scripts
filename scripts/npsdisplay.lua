@@ -6,15 +6,8 @@
 --   1. Put this script in mods/scripts
 --   2. Now you have NPS display <3
 
-local maxTime = 1000 -- milliseconds
-local nps = 0
-
-function onCreate()
-  if version == '0.7' then
-    luaDebugMode = true
-    debugPrint('what you know about rollin down in the deep '..version)
-  end
-end
+local NPS = 0
+local maxNPS = 0
 
 local notesTable = {}
 function goodNoteHit(id, data, type, sus)
@@ -22,11 +15,17 @@ function goodNoteHit(id, data, type, sus)
 end
 function onUpdate(elapsed)
 	for i = 1, #notesTable do
-		if getSongPosition() - maxTime > notesTable[i] then
+		if getSongPosition() - 1000 > notesTable[i] then
 			table.remove(notesTable, i)
 			i = i - 1
 		end
 	end
-	nps = #notesTable
-	setProperty("scoreTxt.text", "Score: "..getProperty('songScore')..' | Misses: '..getProperty('songMisses')..' | Rating: '..getProperty('ratingName')..(getProperty('ratingName') ~= '?' and ' ('..(math.floor(getProperty('ratingPercent') * 10000) / 100)..'%) - '..getProperty('ratingFC') or '')..' | NPS: '..nps)
+	NPS = #notesTable
+	if NPS > maxNPS then maxNPS = NPS end
+	setProperty("scoreTxt.text", 
+		"Score: "..getProperty('songScore')..
+		' | Misses: '..getProperty('songMisses')..
+		' | Rating: '..getProperty('ratingName')..(getProperty('ratingName') ~= '?' and ' ('..(math.floor(getProperty('ratingPercent') * 10000) / 100)..'%) - '..getProperty('ratingFC') or '')..
+		' | NPS: '..NPS
+	)
 end
