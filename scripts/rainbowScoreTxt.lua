@@ -60,5 +60,6 @@ end
 ]]--
 function changeFormat(textObject, textColor, borderColor, beginIndex, endIndex)
 	if luaTextExists(textObject) then textObject = "game.modchartTexts.get('"..textObject.."')" else textObject = "game."..textObject end
-	return runHaxeCode(textObject..".addFormat(new flixel.text.FlxTextFormat(0x"..textColor..", false, false, 0x"..borderColor.."), "..tostring(beginIndex - 1)..", "..tostring(endIndex - 1).."); return true;")
+	addHaxeLibrary("FlxTextFormat", "flixel.text")
+	return runHaxeCode(textObject..".addFormat(new FlxTextFormat(0x"..textColor..", false, false, 0x"..borderColor.."), "..tostring(beginIndex - 1)..", "..tostring(endIndex - 1).."); return true;")
 end
