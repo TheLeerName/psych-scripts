@@ -13,7 +13,7 @@ Converts automatically a .osz files from osu to working songs in fnf. Just open 
 
 ## Mechanics
 
-### [Change scroll](scripts/advancedtween.lua)
+### [Change scroll](scripts/changescroll.lua)
 [![wjat](http://img.youtube.com/vi/exJH76zkxTw/0.jpg)](http://www.youtube.com/watch?v=exJH76zkxTw "funny fnf script for downscroll and upscroll at the same time")
 
 Functions for change scroll of notes, it can change scroll of certain notes too!
@@ -49,7 +49,7 @@ Idk its like in some rhythm games, just try it! Use downscroll for full experien
 NPS display in score txt like how in Kade Engine
 
 ### [Shader](scripts/shader.lua)
-Script for applying shader to camHUD/camGame. [Btw use my website for converting shaders from shadertoy to fnf!!!!](https://theleername.github.io/ShadertoyToFlixel/)
+Script for applying shader to camHUD/camGame/FlxG.game. [Btw use my website for converting shaders from shadertoy to fnf!!!!](https://theleername.github.io/ShadertoyToFlixel/)
 
 ### [Rainbow score txt](scripts/rainbowScoreTxt.lua)
 Just a rainbow score txt :)
